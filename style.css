@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: black;
+}
+img{
+    width: 400px;
+    height: 500 px;
+}
+
+.img-alerta{
+        float: left; /* A imagem ficará à esquerda do texto */ 
+        width: 150px; /* Largura da imagem */
+        height: auto; /* Altura ajustada automaticamente */
+        margin: 0;
+    }
+.img-alert{
+        float: right; /* A imagem ficará à esquerda do texto */
+        width: 150px; /* Largura da imagem */
+        height: auto; /* Altura ajustada automaticamente */
+
+    }
+h1{
+    color: #ffffff;
+}
